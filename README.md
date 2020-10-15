@@ -1,6 +1,8 @@
 # TextSwitchTest
 ## 文本开关
 
+![image text](https://github.com/gdm546288828/TextSwitchTest/blob/master/temp.png)
+
 ```xml
 <com.quanzi.tvswitch.TextSwitch
 	android:id="@+id/textSwitch"
