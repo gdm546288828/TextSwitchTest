@@ -135,9 +135,7 @@ public class TextSwitch extends View {
         int specSize = MeasureSpec.getSize(size);
         //设置一个默认值，就是这个View的默认宽度为500，这个看我们自定义View的要求
         int result = 0;
-        if (specMode == MeasureSpec.AT_MOST) {//相当于我们设置为wrap_content
-            result = specSize;
-        } else if (specMode == MeasureSpec.EXACTLY) {//相当于我们设置为match_parent或者为一个具体的值
+        if (specMode == MeasureSpec.EXACTLY) {
             result = specSize;
         }
         return (int) Math.max(result, defaultSize);
