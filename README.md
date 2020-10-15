@@ -1,7 +1,7 @@
 # TextSwitchTest
 ## 文本开关
 
-![image text](https://github.com/gdm546288828/TextSwitchTest/blob/master/temp.png)
+![image text](https://github.com/gdm546288828/TextSwitchTest/blob/master/image-store/temp.png)
 
 ```xml
 <com.quanzi.tvswitch.TextSwitch
