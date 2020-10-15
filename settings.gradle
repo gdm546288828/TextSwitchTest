@@ -1,0 +1,3 @@
+include ':TvSwitch'
+include ':app'
+rootProject.name = "TextSwitchTest"

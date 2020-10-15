@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.quanzi.tvswitch.TextSwitch
+        android:id="@+id/textSwitch"
+        android:layout_width="0dp"
+        android:layout_height="0dp" />
+
+    <com.quanzi.tvswitch.TextSwitch
+        android:id="@+id/textSwitch2"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        app:bg="#ff0"
+        app:duration="1000"
+        app:left_color="#00f"
+        app:left_content="最新"
+        app:left_size="18sp"
+        app:right_color="#00f"
+        app:right_content="最热"
+        app:right_size="26sp"
+        app:second_bg="#0f0"
+        app:second_border_color="#f0f" />
+</LinearLayout>

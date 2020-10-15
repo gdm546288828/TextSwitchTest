@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_switch_bg">#f4f5f6</color>
+    <color name="text_switch_second">#ffffff</color>
+    <color name="text_switch_second_border">#979797</color>
+    <color name="text_switch_text_color">#333333</color>
+</resources>

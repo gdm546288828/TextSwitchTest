@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextSwitch">
+        <attr name="left_content" format="string" />
+        <attr name="left_color" format="color" />
+        <attr name="left_size" format="dimension" />
+        <attr name="right_content" format="string" />
+        <attr name="right_color" format="color" />
+        <attr name="right_size" format="dimension" />
+        <attr name="bg" format="color" />
+        <attr name="second_bg" format="color" />
+        <attr name="second_border_color" format="color" />
+        <attr name="second_border_width" format="dimension" />
+        <attr name="duration" format="integer" />
+    </declare-styleable>
+
+</resources>
