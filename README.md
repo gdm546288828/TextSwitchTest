@@ -1,6 +1,10 @@
 # TextSwitchTest
 ## 文本开关
 
+```xml
+ implementation 'com.github.gdm546288828:TextSwitchTest:v1.1'
+```
+
 ![image text](https://github.com/gdm546288828/TextSwitchTest/raw/master/img-storage/temp.png)
 
 ```xml
